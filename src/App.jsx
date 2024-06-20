@@ -5,7 +5,7 @@ function App() {
 
 
   return (
-    <div>
+    <div className='w-screen'>
       <MisRutas />
     </div>
   )
