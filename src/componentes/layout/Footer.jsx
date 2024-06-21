@@ -3,7 +3,7 @@ import React from 'react'
 
 export const Footer = () => {
   return (
-    <footer className='p-2 text-center bg-[#e0dadb]'>
+    <footer className='w-full p-2 text-center bg-[#e0dadb]'>
         <p>Portafolio Eudys Mora &copy; - 2024</p>
     </footer>
   )

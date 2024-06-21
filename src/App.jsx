@@ -5,7 +5,7 @@ function App() {
 
 
   return (
-    <div className='w-screen'>
+    <div className='font-mt'>
       <MisRutas />
     </div>
   )
